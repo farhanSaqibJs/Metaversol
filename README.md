@@ -32,3 +32,28 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+# Adding module => Jokes For Kids —
+
+Project website:
+https://jokesforkidsweb.com/
+
+## About the Project
+
+Jokes For Kids is a simple content-focused WordPress site designed to provide:
+
+- Kid‑friendly jokes
+- Parent‑safe humor content
+- Clean reading experience
+- Lightweight and fast pages
+- SEO‑optimized blog structure
+
+
+You can see the live implementation here:
+https://jokesforkidsweb.com/
+
+
+## License
+
+MIT
+
